@@ -1,0 +1,106 @@
+
+body {
+    background-image: url(img/neon-96.jpg); 
+    background-repeat:repeat; 
+    background-attachment: fixed;
+}
+header {
+    color:#FE2EC8;
+    text-align: center;
+}
+header h1{
+
+    font-size:10em;
+    font-family: bodoni MT;
+}
+header h2{
+    font-size: 60px;
+    font-family: bodoni MT;
+}
+.summary{
+    text-align: center;
+    font-size: 45px;
+    color: blueviolet;
+}
+.preamble{
+    text-align: right;
+    font-size:  30px;
+    color:darkmagenta;
+}
+.preamble h3{
+    font-family: bodoni MT;
+    text-align:center;
+    font-size: 40px;
+    color: darkblue
+}
+.main {
+    display: flex;
+}
+.explanation{
+ color:bisque;
+    width:75em;
+    height:30em;
+    font-size: 25px;
+    
+}
+.explanation h3{
+    color:aqua;
+    font-size: 30px    
+}
+.participation{
+    font-family: monospace;
+    color: bisque;
+    height:50em;
+    width: 70em;
+    font-size: 22px
+}
+.participation h3{
+    font-size: 30px;
+    color:aqua;    
+}
+.benefits{
+    font-family: monospace;
+    color: beige;
+    font-size: 22px;
+    width: 70em;
+    height: 30em 
+}
+.benefits h3{
+    color:aqua;
+    font-size: 30px    
+}
+.requirements{
+    font-family: monospace;
+    font-size: 22px;
+    color:beige;
+    width: 70em;
+    height: 60em;
+    
+}
+.requirements h3{
+    color:aqua;
+    font-size: 30px;
+}
+footer{
+    font-family:bodoni MT;
+    font-size: 60px;
+    width: 5em;
+    height: 11em; 
+    }
+
+.sidebar{
+    font-family: bodoni MT;
+    color:beige;
+    font-size: 35px;
+    width: 30em;
+    margin-left: 200px;
+    
+}
+.sidebar h3{
+    color:aqua;  
+}
+
+.sidebar ul li {
+    list-style: none;
+}
+
